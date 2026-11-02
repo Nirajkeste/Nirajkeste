@@ -69,6 +69,4 @@
 
 ---
 
-## 📈 GitHub Stats
 
-![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirajkeste&show_icons=true&theme=default)
